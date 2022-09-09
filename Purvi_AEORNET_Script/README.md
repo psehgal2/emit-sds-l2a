@@ -4,9 +4,9 @@ and prints matching AERONET sites and respective AOD values.
 
 Instructions:
 
-Program input example provided in file Program_Input_Example
+Program input example provided in file ExampleData.png and ExampleData2.png
 
-Run the program and input numbers as it asks. It will print matching sites and AOD values.
+Run the program in FinalScript.py and input numbers as it asks. It will print matching sites and AOD values.
 
 X refers to longitude and Y refers to latitude.
 
